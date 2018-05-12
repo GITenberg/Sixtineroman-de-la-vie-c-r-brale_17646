@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17646#Sixtineroman-de-la-vie-c-r-brale
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-31'
 gutenberg_type: Text
